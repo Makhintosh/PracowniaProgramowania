@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1772642882 source:c:\users\igoru\desktop\studia\2 semestr rok 1\pracowniaprogramowania\Æwiczenia 2\zad2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
