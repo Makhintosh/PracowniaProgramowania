@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1780302455 source:d:\185140\pracowniaprogramowania\powtorzenie\powtorzenie2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
