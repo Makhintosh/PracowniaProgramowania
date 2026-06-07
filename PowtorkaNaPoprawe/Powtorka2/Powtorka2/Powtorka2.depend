@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1780837141 source:c:\users\igoru\desktop\studia\powtorka2\powtorka2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
